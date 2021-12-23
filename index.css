@@ -1,0 +1,25 @@
+.display-1{
+    font-size: 104px;
+    font-weight: 900;
+}
+.Box-heading{
+    background-color: red;
+    display: inline;
+    background-size:0px;
+}
+.col-sm-8{
+    background-image: url("https://asiasociety.org/sites/default/files/styles/1200w/public/0/0730%20dance.jpg") ;
+}
+.p{
+    color: beige;
+}
+.align{
+    text-align: justify;
+}
+.line{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.a{
+    font-size: 20px;
+}
